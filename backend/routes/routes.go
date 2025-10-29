@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"Yboost_2/controllers"
+	"github.com/aimeric0/yboost_2/controllers"
 )
 
 func SetupRoutes(r *gin.Engine) {

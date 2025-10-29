@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"Yboost_2/models"
+	"github.com/aimeric0/yboost_2/models"
 )
 
 var recipes = []models.Recipe{

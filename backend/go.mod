@@ -1,4 +1,4 @@
-module Yboost_2
+module github.com/aimeric0/yboost_2
 
 go 1.22
 

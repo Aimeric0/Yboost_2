@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Yboost_2/routes"
+	"github.com/aimeric0/yboost_2/routes"
 	"github.com/gin-gonic/gin"
 )
 
